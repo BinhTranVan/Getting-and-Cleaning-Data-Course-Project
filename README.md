@@ -12,4 +12,4 @@ I create this repository to submit for the peer grade assignment of Getting and 
   c) Uses descriptive activity names to name the activities in the data set
   d) Appropriately labels the data set with descriptive variable names.
   e) From the data set in d), creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-3) TidyData.txt is the final data after perform all above squences.
+3) FinalTidyData.txt is the final data after perform all above squences.
