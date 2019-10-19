@@ -1,5 +1,5 @@
 # CODE BOOK
-This code book aims to summarize results and desscribe variables in FinalData.txt.
+This code book aims to summarize results and desscribe variables in FinalTidyData.txt.
 ## Identifiers
 * `subject` - The ID of the test subject
 * `activity` - The type of activity performed when the corresponding measurements were taken
