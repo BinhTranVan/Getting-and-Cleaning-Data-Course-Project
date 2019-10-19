@@ -1,8 +1,8 @@
 # CODE BOOK
 This code book aims to summarize results and desscribe variables in FinalData.txt.
 ## Identifiers
-* subject - The ID of the test subject
-* activity - The type of activity performed when the corresponding measurements were taken
+* `subject` - The ID of the test subject
+* `activity` - The type of activity performed when the corresponding measurements were taken
 ## Measurements
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
@@ -92,4 +92,5 @@ This code book aims to summarize results and desscribe variables in FinalData.tx
 * `SITTING` (value `4`): subject was sitting during the test
 * `STANDING` (value `5`): subject was standing during the test
 * `LAYING` (value `6`): subject was laying down during the test
+
 
