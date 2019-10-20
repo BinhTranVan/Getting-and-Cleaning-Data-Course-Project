@@ -1,8 +1,9 @@
 # CODE BOOK
-This code book aims to summarize results and desscribe variables in FinalTidyData.txt.
-## Identifiers
-* `subject` - The ID of the test subject
-* `activity` - The type of activity performed when the corresponding measurements were taken
+This code book aims to summarize results and desscribe variables in FinalTidyData.txt after running run_analysis.R.
+## 0. Download and create variables
+* `features <- features.txt` : 561 rows, 2 columns
+The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
+* `
 ## Measurements
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
