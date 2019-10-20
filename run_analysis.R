@@ -47,4 +47,4 @@ names(TidyData)<-gsub("gravity", "Gravity", names(TidyData))
 FinalTidyData <- TidyData %>%
   group_by(subject, activity) %>%
   summarise_all(list(mean))
-write.table(FinalData, "FinalData.txt", row.name=FALSE)
+write.table(FinalData, "FinalTidyData.txt", row.name=FALSE)
